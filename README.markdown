@@ -9,7 +9,7 @@ Installation
 ============
 
     $ cd Library/Application\ Support/BBEdit/
-    $ mkdir Packages # if it doesn't already exists
+    $ mkdir Packages                            # if it doesn't already exists
     $ cd Packages
     $ git clone https://github.com/rwilcox/html.bbpackage.git
 
