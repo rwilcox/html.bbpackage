@@ -17,7 +17,7 @@ And restart BBEdit.
 
 The JS Lint script requires jsl to be in `/opt/local/bin/jsl`. To install this via Macports:
 
-  `sudo port install jsl`.
+  `sudo port install javascript-lint`.
 
 (Yes, I know I'm showing my Macports bias.)
 
