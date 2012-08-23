@@ -9,7 +9,7 @@ Installation
 ============
 
     $ cd Library/Application\ Support/BBEdit/
-    $ mkdir Packages # if it doesn't already exists
+    $ mkdir Packages                            # if it doesn't already exists
     $ cd Packages
     $ git clone https://github.com/rwilcox/html.bbpackage.git
 
@@ -21,10 +21,12 @@ The JS Lint script requires jsl to be in `/opt/local/bin/jsl`. To install this v
 
 (Yes, I know I'm showing my Macports bias.)
 
+
 Have a useful thing to contribute?
 =============================
 
 Please do! I'm sure you HTML developers/designers have great scripts and text filters the community would like to use too. I don't write pure HTML much, so I'd love to see more tools from people who make their livings writing HTML in BBEdit.
+
 
 License
 ================
