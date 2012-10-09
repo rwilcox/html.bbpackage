@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
 require 'cgi'
+require 'rubygems'
+require 'htmlentities'
 
-print CGI.escapeHTML( ARGF.read )
+coder = HTMLEntities.new
+print coder.encode( ARGF.read, :named )
