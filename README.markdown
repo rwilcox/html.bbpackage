@@ -12,6 +12,7 @@ Installation
     $ mkdir Packages                            # if it doesn't already exists
     $ cd Packages
     $ git clone https://github.com/rwilcox/html.bbpackage.git
+    $ sudo gem install htmlentities             # for escape_html_entities filter to work propely
 
 And restart BBEdit.
 
