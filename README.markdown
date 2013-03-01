@@ -22,6 +22,26 @@ The JS Lint script requires jsl to be in `/opt/local/bin/jsl`. To install this v
 
 (Yes, I know I'm showing my Macports bias.)
 
+Current Features
+==========================
+
+Text Filters:
+
+  * Tidy your CSS with CSS Tidy
+  * Sort your CSS Properties with CSS Comb
+  * Escape and unescape text to be suitable to be passed in a URI
+  * Escape and Unescape HTML Entities
+  * Beautify your Javascript using the script that powers [JS Beautifier](http://jsbeautifier.org/)
+  * Validate your JSON
+  * Make your JSON pretty (mostly for human debugging of JSON output)
+  
+Scripts:
+
+  * Run JS Lint
+  * Jump to end of current tag
+  * Select contents of current tag
+  * select contents of current tag AND the beginning and ending HTML tags
+
 
 Have a useful thing to contribute?
 =============================
