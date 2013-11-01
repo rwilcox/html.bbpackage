@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 import fileinput
 import json
 if __name__ == "__main__":
